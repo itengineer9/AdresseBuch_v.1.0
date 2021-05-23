@@ -25,11 +25,6 @@
     
     </div>
 
-<!-- <?php $message = isset($_GET['message'])?$_GET['message']:'Adresse Buch'; ?>
-    <div id="sucess" class="alert alert-success">
-        <?php echo $message ; ?>
-    </div>
-    <div id="dangr" class="alert alert-danger"> -->
  
  <?php  
     function getOrderBy(){
